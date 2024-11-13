@@ -1,7 +1,3 @@
-Here’s a curated and properly formatted `CODE_OF_CONDUCT.md` for your project, with clear indentation and Markdown formatting:
-
----
-
 # Code of Conduct
 
 ## Our Pledge
